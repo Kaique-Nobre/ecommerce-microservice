@@ -1,5 +1,6 @@
-package com.dev.auth_service.user;
+package com.dev.auth_service.user.repository;
 
+import com.dev.auth_service.user.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;
